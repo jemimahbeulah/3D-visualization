@@ -1,1 +1,1 @@
-# 3D-visualization-model-of-vertebral-column-
+# Using the patient's CT scan, I created a 3D visualisation model of the vertebral column. I used the Python programming language to analyze the supplied data set (.dcm files) and identified three dimensions: axial, sagital, and coronal.Furthermore, using the 3D Slicer software, I have segmented the given dicom files and produced a three-dimensional representation of the vertebral column from the patient's CT scan. 
